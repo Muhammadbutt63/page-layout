@@ -1,0 +1,60 @@
+.navbar{
+    background-color: blue;
+    height: 60px;
+}
+
+.navhead{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 8px;
+}
+
+.Parent{
+    margin-top: 10px;
+}
+
+.Child1{
+    background-image: url(../assests/img\ 22.jpeg);
+    height: 300px;
+    width: 450px;
+    display: inline-block;
+    background-position: center;
+}
+
+.Child2{
+    background-image: url(../assests/img\ 18.jpeg);
+    height: 300px;
+    width: 450px;
+    display: inline-block;
+}
+
+.Child3{
+    background-image: url(../assests/img\ 23.jpeg);
+    height: 300px;
+    width: 600px;
+    margin-left: 60.5%;
+
+}
+
+.head2{
+    color: white;
+    text-align: center;
+    padding-top: 3px;
+}
+
+
+body{
+    background-image: url(../assests/img\ 12.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 99%;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+.footer{
+    background-color: black;
+    height: 50px;
+}
+
